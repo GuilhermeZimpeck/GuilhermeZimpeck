@@ -9,4 +9,4 @@ Focused on learning and developing myself in the areas of development and cybers
 I love computing, i learn quickly, no matter what the problem is, i find a way to solve it.
 
 My main tech stack is C, Python, Linux, hardware maintenance, and i'm learning C++
-https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
+
