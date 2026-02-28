@@ -10,3 +10,4 @@ I love computing, i learn quickly, no matter what the problem is, i find a way t
 
 My main tech stack is C, Python, Linux, hardware maintenance, and i'm learning C++
 
+![image alt](https://raw.githubusercontent.com/GuilhermeZimpeck/GuilhermeZimpeck/e83ba75711ccc3e2ca1de70602080c04e7addf19/python-original.svg)
