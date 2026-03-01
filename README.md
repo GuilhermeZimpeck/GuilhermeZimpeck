@@ -1,4 +1,4 @@
-## Hello there!! 🤓
+## Hello there!! 👋
 
 I'm Guilherme Zimpeck, a computer science student located in Brazil.
 
