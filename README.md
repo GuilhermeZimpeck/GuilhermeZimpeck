@@ -16,8 +16,47 @@ My main tech stack is C, C++, Python, Linux, Git, Vs code, and hardware maintena
 
 ## Tools 🛠
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/1920px-Google_Sheets_logo_%282014-2020%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width= "50px" /> <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Google_Slides_logo_%282014-2020%29.svg/1920px-Google_Slides_logo_%282014-2020%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="49px"/> <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google_Docs_logo_%282014-2020%29.svg/960px-Google_Docs_logo_%282014-2020%29.svg.png" width="49px" />  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/3840px-Adobe_Photoshop_CC_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="72px" />  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wondershare_filmora_logo.svg/3840px-Wondershare_filmora_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="68px" /> <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/OBS_Studio_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="68px" />
+<table>
+  <tr>
+    <td align="center">
+      <strong>Google Sheets</strong><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/1920px-Google_Sheets_logo_%282014-2020%29.svg.png" width="60px"/>
+    </td>
+    <td align="center">
+      <strong>Google Slides</strong><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Google_Slides_logo_%282014-2020%29.svg/1920px-Google_Slides_logo_%282014-2020%29.svg.png" width="60px"/>
+    </td>
+    <td align="center">
+      <strong>Google Docs</strong><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google_Docs_logo_%282014-2020%29.svg/960px-Google_Docs_logo_%282014-2020%29.svg.png" width="60px"/>
+    </td>
+    <td align="center">
+      <strong>Photoshop</strong><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/3840px-Adobe_Photoshop_CC_icon.svg.png" width="85px"/>
+    </td>
+    <td align="center">
+      <strong>Filmora</strong><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wondershare_filmora_logo.svg/3840px-Wondershare_filmora_logo.svg.png" width="82px"/>
+    </td>
+    <td align="center">
+      <strong>OBS Studio</strong><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/OBS_Studio_logo.png" width="80px"/>
+    </td>
+    <td align="center">
+      <strong>Obsidian</strong><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/1280px-2023_Obsidian_logo.svg.png" width="78px"/>
+    </td>
+    <td align="center">
+      <strong>Excel</strong><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg/330px-Microsoft_Office_Excel_%282019%E2%80%932025%29.svg.png" width="80px"/>
+    </td>
+    <td align="center">
+      <strong>Power BI</strong><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/960px-New_Power_BI_Logo.svg.png" width="75px"/>
+    </td>
 
+  </tr>
+</table>
 
 ## How to reach me. 📬
 
