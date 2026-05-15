@@ -8,11 +8,16 @@ Focused on learning and developing myself in the areas of development and cybers
 
 I love computing, i learn quickly, no matter what the problem is, i always find a way to solve it.
 
-My main tech stack is C, Python, Linux, Git, hardware maintenance, and i'm learning C++.
+My main tech stack is C, C++, Python, Linux, Git, Vs code, and hardware maintenance .
 
-##
+## Main Techs ⚙
 
-<img src="https://raw.githubusercontent.com/GuilhermeZimpeck/GuilhermeZimpeck/064b1c1e5479218442f540a1d39e1b117732c5bb/python-original.svg" width="100px" /> <img src="https://img.icons8.com/color/600/c-programming.png" width="95px"/> <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" width="90px" /> <img src="https://miro.medium.com/1*co_1qORNdM0PI1nvCp7Iig.png" width="87px" />
+<img src="https://raw.githubusercontent.com/GuilhermeZimpeck/GuilhermeZimpeck/064b1c1e5479218442f540a1d39e1b117732c5bb/python-original.svg" width="100px" /> <img src="https://img.icons8.com/color/600/c-programming.png" width="95px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="88px" /> <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" width="90px" /> <img src="https://miro.medium.com/1*co_1qORNdM0PI1nvCp7Iig.png" width="87px" /> <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxj7kCzMIlSC20SNjaJf9GmESvWFqgy6FNrwzWSIu2lzePyWSz8zg09RAX43OFexidzEE3_7l3auaKk4w9ktJdqg-&format=source" width="87px" />
+
+## Tools 🛠
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/1920px-Google_Sheets_logo_%282014-2020%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width= "50px" /> <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Google_Slides_logo_%282014-2020%29.svg/1920px-Google_Slides_logo_%282014-2020%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="49px"/> <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google_Docs_logo_%282014-2020%29.svg/960px-Google_Docs_logo_%282014-2020%29.svg.png" width="49px" />  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/3840px-Adobe_Photoshop_CC_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="72px" />  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wondershare_filmora_logo.svg/3840px-Wondershare_filmora_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="68px" /> <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/OBS_Studio_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="68px" />
+
 
 ## How to reach me. 📬
 
