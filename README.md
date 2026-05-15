@@ -19,15 +19,15 @@ My main tech stack is C, C++, Python, Linux, Git, Vs code, and hardware maintena
 <table>
   <tr>
     <td align="center">
-      <strong>Google Sheets</strong><br>
+      <strong>Sheets</strong><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/1920px-Google_Sheets_logo_%282014-2020%29.svg.png" width="60px"/>
     </td>
     <td align="center">
-      <strong>Google Slides</strong><br>
+      <strong>Slides</strong><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Google_Slides_logo_%282014-2020%29.svg/1920px-Google_Slides_logo_%282014-2020%29.svg.png" width="60px"/>
     </td>
     <td align="center">
-      <strong>Google Docs</strong><br>
+      <strong>Docs</strong><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google_Docs_logo_%282014-2020%29.svg/960px-Google_Docs_logo_%282014-2020%29.svg.png" width="60px"/>
     </td>
     <td align="center">
@@ -39,7 +39,7 @@ My main tech stack is C, C++, Python, Linux, Git, Vs code, and hardware maintena
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wondershare_filmora_logo.svg/3840px-Wondershare_filmora_logo.svg.png" width="82px"/>
     </td>
     <td align="center">
-      <strong>OBS Studio</strong><br>
+      <strong>OBS</strong><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/OBS_Studio_logo.png" width="80px"/>
     </td>
     <td align="center">
