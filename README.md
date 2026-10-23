@@ -5,7 +5,7 @@ I'm Guilherme Zimpeck, a computer science student located in Brazil.
 Focused on learning and developing myself in the areas of development and cybersecurity.
 
 I love computing, i learn quickly, no matter what the problem is, i always find a way to solve it.
-<table>
+<table align="center">
   <tr>
     <td>
       <h1>Academic Background</h1>
@@ -15,7 +15,7 @@ I love computing, i learn quickly, no matter what the problem is, i always find 
       Object-oriented programming | Operatinal systems<br><br>
     </td>
     <td>
-      <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8xLBJVKMFmv3fqSu3DXa9aGsjTmqqwG2SZOYKegiZ_VeCcFB8leCtjhk&s=10" width="400px" />
+      <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8xLBJVKMFmv3fqSu3DXa9aGsjTmqqwG2SZOYKegiZ_VeCcFB8leCtjhk&s=10" width="300px" />
     </td>
   </tr>
 </table>
