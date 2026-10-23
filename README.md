@@ -27,7 +27,7 @@ I love computing, i learn quickly, no matter what the problem is, i always find 
       Working in collaboration with other teams, such as LACQ-UFRJ, AIChE UFRJ and LACQ Feynman<br><br>
     </td>
     <td>
-      <img  src="https://images.teepublic.com/derived/production/designs/2642905_0/1525137182/i_m:pid_477,c_183_151_957x957,bc_0080b3,ar_1x1,o_portrait,pm_4,s_630,q_90.jpg" width="290px" />
+      <img  src="/LACQ logo.png" width="290px" />
     </td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@ I love computing, i learn quickly, no matter what the problem is, i always find 
 
 ## Main Techs ⚙
 
-<img src="https://raw.githubusercontent.com/GuilhermeZimpeck/GuilhermeZimpeck/064b1c1e5479218442f540a1d39e1b117732c5bb/python-original.svg" width="100px" /> <img src="https://img.icons8.com/color/600/c-programming.png" width="95px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="88px" /> <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" width="90px" /> <img src="https://miro.medium.com/1*co_1qORNdM0PI1nvCp7Iig.png" width="87px" /> <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxj7kCzMIlSC20SNjaJf9GmESvWFqgy6FNrwzWSIu2lzePyWSz8zg09RAX43OFexidzEE3_7l3auaKk4w9ktJdqg-&format=source" width="87px" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" width="140px" /><img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="100px"/><img src="https://raw.githubusercontent.com/GuilhermeZimpeck/GuilhermeZimpeck/064b1c1e5479218442f540a1d39e1b117732c5bb/python-original.svg" width="100px" />  <img src="https://img.icons8.com/color/600/c-programming.png" width="95px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="88px" /> <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" width="90px" /> <img src="https://miro.medium.com/1*co_1qORNdM0PI1nvCp7Iig.png" width="87px" /> <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/3840px-HTML5_logo_and_wordmark.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail" width="100px" /><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/500px-CSS3_logo_and_wordmark.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail" width="71px" />
 
 ## Tools 🛠
 
