@@ -2,13 +2,23 @@
 
 I'm Guilherme Zimpeck, a computer science student located in Brazil.
 
-I am an undergraduate student at CEFET-RJ.
-
 Focused on learning and developing myself in the areas of development and cybersecurity.
 
 I love computing, i learn quickly, no matter what the problem is, i always find a way to solve it.
-
-My main tech stack is C, C++, Python, Linux, Git, Vs code, and hardware maintenance .
+<table>
+  <tr>
+    <td>
+      <h1>Academic Background</h1>
+      I'm a undergraduate student in computer science at UFCI RJ. <br><br>
+      Developing my skills and discovering new technologies.<br><br>
+      Programming and algorithms  | Data Structures <br><br>
+      Object-oriented programming | Operatinal systems<br><br>
+    </td>
+    <td>
+      <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8xLBJVKMFmv3fqSu3DXa9aGsjTmqqwG2SZOYKegiZ_VeCcFB8leCtjhk&s=10" width="400px" />
+    </td>
+  </tr>
+</table>
 
 ## Main Techs ⚙
 
