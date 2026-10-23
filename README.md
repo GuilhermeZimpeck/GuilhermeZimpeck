@@ -22,7 +22,7 @@ I love computing, i learn quickly, no matter what the problem is, i always find 
     <td>
       <h1>Extensions | Undergraduate Research </h1>
       I'm the president and founder of LACQ-CEFET/RJ.<br><br>
-      The Quantum Computing League at CEFET/RJ.<br><br>
+      The Quantum Computing League at UFCI RJ.<br><br>
       Working on lectures, papers, research, classes, and studies.<br><br>     
       Working in collaboration with other teams, such as LACQ-UFRJ, AIChE UFRJ and LACQ Feynman<br><br>
     </td>
