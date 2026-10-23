@@ -15,7 +15,7 @@ I love computing, i learn quickly, no matter what the problem is, i always find 
       Object-oriented Programming | Operatinal Systems | Computer Architecture<br><br>
     </td>
     <td>
-      <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8xLBJVKMFmv3fqSu3DXa9aGsjTmqqwG2SZOYKegiZ_VeCcFB8leCtjhk&s=10" width="300px" />
+      <img  src="/CEFET logo.png" width="300px" />
     </td>
   </tr>
   <tr>
