@@ -5,7 +5,7 @@ I'm Guilherme Zimpeck, a computer science student located in Brazil.
 Focused on learning and developing myself in the areas of development and cybersecurity.
 
 I love computing, i learn quickly, no matter what the problem is, i always find a way to solve it.
-<table align="center">
+<table>
   <tr>
     <td>
       <h1>Academic Background</h1>
