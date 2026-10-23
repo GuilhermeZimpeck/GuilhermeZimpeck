@@ -21,13 +21,25 @@ I love computing, i learn quickly, no matter what the problem is, i always find 
   <tr>
     <td>
       <h1>Extensions | Undergraduate Research </h1>
-      I am the president and founder of LACQ-CEFET/RJ.<br><br>
+      I'm the president and founder of LACQ-CEFET/RJ.<br><br>
       The Quantum Computing League at CEFET/RJ.<br><br>
       Working on lectures, papers, research, classes, and studies.<br><br>     
       Working in collaboration with other teams, such as LACQ-UFRJ, AIChE UFRJ and LACQ Feynman<br><br>
     </td>
     <td>
       <img  src="https://images.teepublic.com/derived/production/designs/2642905_0/1525137182/i_m:pid_477,c_183_151_957x957,bc_0080b3,ar_1x1,o_portrait,pm_4,s_630,q_90.jpg" width="290px" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h1>Professional Experience</h1>
+      I currently work as an trainee at Globo Comunicações. <br><br>
+      Working as an FJI platform developer. <br><br>
+      Learning About Oracle EMP PBCS. <br><br>
+      Using groovy | python | java | Shell script | AWS | GCP. <br><br>
+    </td>
+    <td>
+      <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqs6K1Zg2kxSeO0_MUfL32dHTvnjMCGflSEqmrkL5yJhGm_F30mUyvi-Q&s=10" width="290px" />
     </td>
   </tr>
 </table>
