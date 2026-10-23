@@ -11,8 +11,8 @@ I love computing, i learn quickly, no matter what the problem is, i always find 
       <h1>Academic Background</h1>
       I'm a undergraduate student in computer science at UFCI RJ. <br><br>
       Developing my skills and discovering new technologies.<br><br>
-      Programming algorithms  | Data Structures    | Computer networks <br><br>
-      Object-oriented programming | Operatinal systems | Computer architecture<br><br>
+      Programming Algorithms  | Data Structures    | Computer Networks <br><br>
+      Object-oriented Programming | Operatinal Systems | Computer Architecture<br><br>
     </td>
     <td>
       <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8xLBJVKMFmv3fqSu3DXa9aGsjTmqqwG2SZOYKegiZ_VeCcFB8leCtjhk&s=10" width="300px" />
